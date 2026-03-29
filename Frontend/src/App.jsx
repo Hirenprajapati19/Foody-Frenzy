@@ -8,12 +8,12 @@ import Menu from './pages/Menu/Menu'
 import Cart from './pages/Cart/Cart'
 import SignUp from './components/SignUp/SignUp'
 import PrivateRoute from './components/PrivateRoute/PrivteRoute'
-import VerifyPaymentPage from './pages/verifyPaymentPage/verifyPaymentPage'
 import CheckOutPage from './pages/CheckoutPage/CheckOutPage'
 import MyOrderPage from './pages/MyOrderPage/MyOrderPage'
 import ProfilePage from './pages/ProfilePage/ProfilePage'
 import ForgotPasswordPage from './pages/ForgotPasswordPage/ForgotPasswordPage'
 import ResetPasswordPage from './pages/ResetPasswordPage/ResetPasswordPage'
+import VerifyPaymentPage from './pages/VerifyPaymentPage/VerifyPaymentPage'
 
 function App() {
   return (
